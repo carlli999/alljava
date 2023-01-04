@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="PigServer"
+  id="myeclipse.1137814042218"
+  context-root="/PigServer"
+  j2ee-spec="1.4"
+  archive="PigServer.war">
+  <attributes>
+    <attribute name="webrootdir" value="&lt;prjroot&gt;" />
+  </attributes>
+</project-module>
+
